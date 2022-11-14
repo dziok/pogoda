@@ -1,0 +1,1 @@
+export const daysOfTheWeek = ["Niedziela", "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota"]
